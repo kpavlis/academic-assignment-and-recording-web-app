@@ -23,10 +23,6 @@
 -	For the teacher’s registered courses, add new or delete existed personal or team subjects
 -	For the teacher’s registered courses, add new or delete existed tasks
 
-## 🎯 Purpose
-The purpose of this project is to develop a functional web application that allows teachers to upload assignments with a specific deadline, students to submit an application and specify if it is individual or group work. **It is developed solely for academic and research purposes**.
-
-
 ## 🛠️ Technologies Used
 
 - ASP.NET MVC Framework
@@ -34,6 +30,9 @@ The purpose of this project is to develop a functional web application that allo
 - HTML5
 - PostgreSQL for data persistence
 - Bootstrap for responsive UI
+
+## 🎯 Purpose
+The purpose of this project is to develop a functional web application that allows teachers to upload assignments with a specific deadline, students to submit an application and specify if it is individual or group work. **It is developed solely for academic and research purposes**.
 
 ## 📦 Installation
 
